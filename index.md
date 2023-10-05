@@ -11,3 +11,7 @@
 for i in range(11):
   print("hi")
 ```
+
+- [x] item A
+- [x] item B
+- [ ] item C
